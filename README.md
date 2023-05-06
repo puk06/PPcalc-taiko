@@ -43,7 +43,7 @@ console.log(`pp: ${pp}`) //pp: 531.65
 console.log(`acc: ${Acc}`) // acc: 94.68
 ```
  If you already have Acc (like 98)
- You don't need use ```calcAccuracy()```
+ You don't need to use ```calcAccuracy()```
 # IMPORTANT ATTENTION
 
 This library can't calculate sr DT included. Please use rosu-pp-js or else.
