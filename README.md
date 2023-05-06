@@ -1,6 +1,6 @@
 # about this library 
 
-This library calculate osu!taiko's PP ver V4 standalone!!
+This library calculate osu!taiko's PP V4 standalone!!
 
 This library calculate pp same as taikopp.com
 
