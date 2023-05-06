@@ -1,0 +1,10 @@
+{
+  "name": "pp-calc-taiko",
+  "version": "1.2.6",
+  "description": "PP calculator for taiko v4 and Acc calculator!",
+  "main": "performanceCalculator.js",
+  "license": "MIT",
+  "dependencies": {
+    "pp-calc-taiko": "^1.2.2"
+  }
+}
